@@ -1,0 +1,285 @@
+{
+    "reviews": [
+      {
+        "professor_name": "Dr. Emily T.",
+        "subject": "Microeconomics",
+        "domain": "Economics",
+        "rating": 5,
+        "review": "Dr. Emily provides clear explanations and practical examples. She makes complex concepts easy to understand."
+      },
+      {
+        "professor_name": "Prof. John D.",
+        "subject": "Calculus II",
+        "domain": "Mathematics",
+        "rating": 3,
+        "review": "Prof. John is knowledgeable but often goes too fast. His office hours are helpful, though."
+      },
+      {
+        "professor_name": "Dr. Susan P.",
+        "subject": "Modern Art",
+        "domain": "Art History",
+        "rating": 4,
+        "review": "Dr. Susan is passionate about art and encourages critical thinking. Sometimes the workload is a bit heavy."
+      },
+      {
+        "professor_name": "Prof. Michael R.",
+        "subject": "Thermodynamics",
+        "domain": "Mechanical Engineering",
+        "rating": 2,
+        "review": "Prof. Michael has a deep understanding of the subject but struggles to convey the material effectively."
+      },
+      {
+        "professor_name": "Dr. Anita S.",
+        "subject": "Organic Chemistry",
+        "domain": "Chemistry",
+        "rating": 4,
+        "review": "Dr. Anita is thorough and ensures students grasp the material. Her exams are challenging but fair."
+      },
+      {
+        "professor_name": "Prof. David L.",
+        "subject": "World History",
+        "domain": "History",
+        "rating": 5,
+        "review": "Prof. David is engaging and makes history come alive with his storytelling. Highly recommended."
+      },
+      {
+        "professor_name": "Dr. Rajiv K.",
+        "subject": "Artificial Intelligence",
+        "domain": "Computer Science",
+        "rating": 4,
+        "review": "Dr. Rajiv is up-to-date with the latest AI trends. His lectures are insightful but require prior knowledge."
+      },
+      {
+        "professor_name": "Prof. Laura G.",
+        "subject": "Shakespearean Literature",
+        "domain": "English",
+        "rating": 3,
+        "review": "Prof. Laura is well-versed in Shakespeare but her lectures can be monotonous. Discussions are lively, though."
+      },
+      {
+        "professor_name": "Dr. Peter M.",
+        "subject": "Quantum Mechanics",
+        "domain": "Physics",
+        "rating": 5,
+        "review": "Dr. Peter has an extraordinary way of breaking down complex theories. His passion for physics is contagious."
+      },
+      {
+        "professor_name": "Prof. Linda C.",
+        "subject": "Marketing 101",
+        "domain": "Business",
+        "rating": 2,
+        "review": "Prof. Linda's lectures lack depth and are mostly reading off slides. Real-world examples are missing."
+      },
+      {
+        "professor_name": "Dr. Henry B.",
+        "subject": "Philosophy of Mind",
+        "domain": "Philosophy",
+        "rating": 4,
+        "review": "Dr. Henry is thought-provoking and encourages deep reflection. The reading load is substantial."
+      },
+      {
+        "professor_name": "Prof. Sarah T.",
+        "subject": "Introduction to Sociology",
+        "domain": "Sociology",
+        "rating": 3,
+        "review": "Prof. Sarah is approachable and understanding, but her lectures sometimes lack structure."
+      },
+      {
+        "professor_name": "Dr. Karen O.",
+        "subject": "Environmental Science",
+        "domain": "Environmental Studies",
+        "rating": 5,
+        "review": "Dr. Karen is deeply passionate about the environment and inspires students to think critically about global issues."
+      },
+      {
+        "professor_name": "Prof. Charles W.",
+        "subject": "Linear Algebra",
+        "domain": "Mathematics",
+        "rating": 4,
+        "review": "Prof. Charles is clear and concise in his explanations. The coursework is challenging but rewarding."
+      },
+      {
+        "professor_name": "Dr. Alice N.",
+        "subject": "Cognitive Psychology",
+        "domain": "Psychology",
+        "rating": 3,
+        "review": "Dr. Alice is knowledgeable but her lectures can be dry. Group discussions are the best part of her class."
+      },
+      {
+        "professor_name": "Prof. Robert E.",
+        "subject": "Introduction to Programming",
+        "domain": "Computer Science",
+        "rating": 4,
+        "review": "Prof. Robert is patient and great at explaining programming concepts to beginners. His projects are well-designed."
+      },
+      {
+        "professor_name": "Dr. Maria F.",
+        "subject": "Molecular Biology",
+        "domain": "Biology",
+        "rating": 5,
+        "review": "Dr. Maria is passionate and brings cutting-edge research into the classroom. Her enthusiasm is infectious."
+      },
+      {
+        "professor_name": "Prof. James K.",
+        "subject": "Macroeconomics",
+        "domain": "Economics",
+        "rating": 3,
+        "review": "Prof. James is good but can be hard to follow at times. His exams are tough but fair."
+      },
+      {
+        "professor_name": "Dr. Barbara H.",
+        "subject": "Civil Procedure",
+        "domain": "Law",
+        "rating": 5,
+        "review": "Dr. Barbara is an excellent professor who knows how to make even the driest material interesting and engaging."
+      },
+      {
+        "professor_name": "Prof. William J.",
+        "subject": "Introduction to Political Science",
+        "domain": "Political Science",
+        "rating": 4,
+        "review": "Prof. William provides a balanced view of political theories. He encourages students to form their own opinions."
+      },
+      {
+        "professor_name": "Dr. Elizabeth Y.",
+        "subject": "Human Anatomy",
+        "domain": "Medicine",
+        "rating": 5,
+        "review": "Dr. Elizabeth's classes are intense but incredibly informative. She is a brilliant educator with high expectations."
+      },
+      {
+        "professor_name": "Prof. Daniel V.",
+        "subject": "Creative Writing",
+        "domain": "English",
+        "rating": 4,
+        "review": "Prof. Daniel encourages creativity and provides constructive feedback. The workload can be demanding."
+      },
+      {
+        "professor_name": "Dr. Samantha G.",
+        "subject": "Ecology",
+        "domain": "Biology",
+        "rating": 5,
+        "review": "Dr. Samantha is passionate about ecology and engages students with fieldwork. Her classes are both challenging and rewarding."
+      },
+      {
+        "professor_name": "Prof. Kevin H.",
+        "subject": "Introduction to Statistics",
+        "domain": "Mathematics",
+        "rating": 2,
+        "review": "Prof. Kevin is knowledgeable but struggles to make statistics interesting. His lectures are often too theoretical."
+      },
+      {
+        "professor_name": "Dr. Jennifer A.",
+        "subject": "World Literature",
+        "domain": "Literature",
+        "rating": 4,
+        "review": "Dr. Jennifer is passionate about literature and introduces diverse perspectives. Sometimes her expectations are unclear."
+      },
+      {
+        "professor_name": "Prof. Richard C.",
+        "subject": "Business Ethics",
+        "domain": "Business",
+        "rating": 5,
+        "review": "Prof. Richard is a thought-provoking lecturer who challenges students to think critically about ethical dilemmas in business."
+      },
+      {
+        "professor_name": "Dr. Megan B.",
+        "subject": "Genetics",
+        "domain": "Biology",
+        "rating": 4,
+        "review": "Dr. Megan is thorough and detailed in her explanations. Her classes are challenging but very rewarding."
+      },
+      {
+        "professor_name": "Prof. Thomas L.",
+        "subject": "Introduction to Philosophy",
+        "domain": "Philosophy",
+        "rating": 3,
+        "review": "Prof. Thomas provides a broad overview of philosophical thought but his lectures can be difficult to follow."
+      },
+      {
+        "professor_name": "Dr. Olivia N.",
+        "subject": "Digital Marketing",
+        "domain": "Marketing",
+        "rating": 4,
+        "review": "Dr. Olivia is up-to-date with the latest digital marketing trends. Her classes are practical and insightful."
+      },
+      {
+        "professor_name": "Prof. Steven J.",
+        "subject": "Classical Mechanics",
+        "domain": "Physics",
+        "rating": 3,
+        "review": "Prof. Steven is knowledgeable but his lectures are sometimes too fast-paced. The problem sets are challenging."
+      },
+      {
+        "professor_name": "Dr. Laura W.",
+        "subject": "Comparative Politics",
+        "domain": "Political Science",
+        "rating": 4,
+        "review": "Dr. Laura is an excellent lecturer who encourages critical thinking about global political systems."
+      },
+      {
+        "professor_name": "Prof. Andrew P.",
+        "subject": "Database Management",
+        "domain": "Computer Science",
+        "rating": 5,
+        "review": "Prof. Andrew's knowledge of databases is vast. He explains complex concepts in an easy-to-understand way."
+      },
+      {
+        "professor_name": "Dr. Michelle T.",
+        "subject": "Clinical Psychology",
+        "domain": "Psychology",
+        "rating": 5,
+        "review": "Dr. Michelle is empathetic and knowledgeable. She brings real-world case studies into the classroom."
+      },
+      {
+        "professor_name": "Prof. Christopher S.",
+        "subject": "European History",
+        "domain": "History",
+        "rating": 4,
+        "review": "Prof. Christopher makes history interesting and relevant. His classes are well-organized and engaging."
+      },
+      {
+        "professor_name": "Dr. Patricia M.",
+        "subject": "Advanced Algorithms",
+        "domain": "Computer Science",
+        "rating": 4,
+        "review": "Dr. Patricia is an expert in algorithms. Her classes are tough, but you'll learn a lot if you're willing to put in the effort."
+      },
+      {
+        "professor_name": "Prof. George T.",
+        "subject": "Introduction to Anthropology",
+        "domain": "Anthropology",
+        "rating": 3,
+        "review": "Prof. George is passionate about anthropology, but his lectures can be a bit unstructured at times."
+      },
+      {
+        "professor_name": "Dr. Nancy K.",
+        "subject": "Biochemistry",
+        "domain": "Chemistry",
+        "rating": 5,
+        "review": "Dr. Nancy is an exceptional teacher who makes biochemistry fascinating. Her labs are well-organized and informative."
+      },
+      {
+        "professor_name": "Prof. Adam V.",
+        "subject": "Creative Advertising",
+        "domain": "Marketing",
+        "rating": 4,
+        "review": "Prof. Adam's classes are full of innovative ideas. He encourages students to think outside the box."
+      },
+      {
+        "professor_name": "Dr. Rachel F.",
+        "subject": "Environmental Law",
+        "domain": "Law",
+        "rating": 4,
+        "review": "Dr. Rachel is a passionate advocate for environmental justice. Her classes are insightful but demanding."
+      },
+      {
+        "professor_name": "Prof. Victor H.",
+        "subject": "Introduction to Robotics",
+        "domain": "Engineering",
+        "rating": 5,
+        "review": "Prof. Victor is a hands-on teacher who brings robotics to life. His projects are challenging but incredibly rewarding."
+      }
+    ]
+  }
+  
